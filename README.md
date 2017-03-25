@@ -1,6 +1,7 @@
 # WorkflowShare
 Workflow实例分享,Github链接：[WorkflowShare](https://github.com/imlifengfeng/WorkflowShare)
 
+![logo](https://github.com/imlifengfeng/WorkflowShare/blob/master/img/logo.jpg)
 
 作为一款效率类 APP，Workflow 刚上线没多久就被各大网站早早发文将 Workflow 捧为神作，捧了又捧。Workflow也是个人非常喜欢的一个神器。
 
