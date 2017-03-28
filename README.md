@@ -40,3 +40,5 @@ Workflow实例分享,Github链接：[WorkflowShare](https://github.com/imlifengf
 [App详情查询](https://workflow.is/workflows/03a95cccf3ca47d981859f215566a8b3) | app详情查询，历史价格等
 [快递查询](https://workflow.is/workflows/8e7a46b0c46846c484fc01c5a1e32962) | 快递进度查询，支持国内所有快递公司
 [添加提醒事项](https://workflow.is/workflows/a238b22f893b42dd8d7fb81ded832e50) | 新建一条提醒事项
+[Down IG Photo](https://workflow.is/workflows/6391ba62e5c947df9e714b30f4440fea) | 下载 Instagra 图片
+[Down IG Video](https://workflow.is/workflows/625466fb2de9439585bc868ec68dfe62) | 下载 Instagram 视频
