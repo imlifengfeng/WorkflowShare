@@ -42,3 +42,16 @@ Workflow实例分享,Github链接：[WorkflowShare](https://github.com/imlifengf
 [添加提醒事项](https://workflow.is/workflows/a238b22f893b42dd8d7fb81ded832e50) | 新建一条提醒事项
 [Down IG Photo](https://workflow.is/workflows/6391ba62e5c947df9e714b30f4440fea) | 下载 Instagra 图片
 [Down IG Video](https://workflow.is/workflows/625466fb2de9439585bc868ec68dfe62) | 下载 Instagram 视频
+[计算到达时间](https://workflow.is/workflows/d5a58dfbea024811ae39b69e1cc9ace0) | 计算到达一个地方所需时间
+[Make QR](https://workflow.is/workflows/19a590ffc2c54cffbbe7e8c8a58c1a3a) | 将剪切板的内容生成为一个二维码，可能需要科学上网
+[Overcast Notes To Evernote](https://workflow.is/workflows/25c08665f2a2480ab85c31fe43991fce) | 将播客节目下面的相关内容保存到印象笔记
+[Save Webpage To iBooks](https://workflow.is/workflows/d07708ddc04c4bc8bc15f48284fe55f0?source=main) | 保存网页到 iBooks
+[Export Song File](https://workflow.is/workflows/243770c937944b978dfb39b9f8ea2a03?source=main) | 导出音乐文件
+[Send To Kindle](https://workflow.is/workflows/1c9f4359aa164c618436b18ad6da04fb?source=main) | 将网页发送到 Kindle
+[Photos to GIF](https://workflow.is/workflows/236ec68f18c946fb83729b388a31bd27?source=main) | 多张照片合成为GIF
+[Download Vimeo](https://workflow.is/workflows/06a7bedab5784f598a1b8b2263c4fe01?source=main) | 下载 Vimeo 视频
+[Save from Instagram](https://workflow.is/workflows/f6329406112f476ab6327102c05a1bb4) | 保存 Instagram 中的照片
+[Delete Screenshots](https://workflow.is/workflows/bd0238c708854d8d8d367cf9e93f7d38?source=main) | 删除最近截图
+[Copy URL](https://workflow.is/workflows/dc35fd67a6064d2f9cf09d450b23b3a3?source=main) | 获取真实 URL 地址
+[Open In YouTube](https://workflow.is/workflows/5944bc184a8e4384bd1bd22acca996ce?source=main) | 在 YouTube 中打开链接
+[Get App Icon](https://workflow.is/workflows/99b9a7050c2f46b4b0b657e4ab0bedf4?source=main) | 获取一个 APP 的图标
